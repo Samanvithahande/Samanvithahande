@@ -1,7 +1,6 @@
 ![Profile Banner](./profile-banner.svg)
-[Read.md](https://github.com/user-attachments/files/35347026/Read.md)
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Samanvitha P Hande — Computer Science Engineering student, Data Science" width="100%" />
+  <img src="./profile-banner.svg" alt="Samanvitha P Hande — Computer Science Engineering student, Data Science" width="100%" />
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=F4D58D&center=true&vCenter=true&width=580&lines=Computer+Science+Engineering+Student;Data+Science+%7C+Full-Stack+Development;Building+thoughtful%2C+useful+products" alt="Animated introduction: Computer Science Engineering Student, Data Science, Full-Stack Development" />
   <br /><br />
