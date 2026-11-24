@@ -1,4 +1,3 @@
-![Profile Banner](./profile-banner.svg)
 <div align="center">
   <img src="./profile-banner.svg" alt="Samanvitha P Hande — Computer Science Engineering student, Data Science" width="100%" />
   <br />
